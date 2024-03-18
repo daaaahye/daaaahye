@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+👩🏻‍💻&emsp;Junior Frontend Developer Interested in Web.<br> 
+👩🏻‍🎓&emsp;Graduated Department of Computer Software Engineering.<br>
+😊&emsp;I work for an Educational Technology Company.<br>
+<br><br>
+<div align="center">
+<a href="mailto:dahae68@gmail.com"><img src="https://github-readme-stats.vercel.app/api?username=daaaahye&show_icons=true&theme=radical"/></a>
+<br><br>
+ </div>
+
+
 <!--
 **daaaahye/daaaahye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
