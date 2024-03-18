@@ -8,7 +8,8 @@
 <a href="mailto:dahae68@gmail.com"><img src="https://github-readme-stats.vercel.app/api?username=daaaahye&show_icons=true&theme=radical"/></a>
 <br><br>
  </div>
-
+ <a href="https://github.com/dahye-program">prev github profile 🥲</a>
+<br><br>
 
 <!--
 **daaaahye/daaaahye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
